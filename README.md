@@ -6,7 +6,7 @@ Hellohi3654's Server Website
 	Port: 19179
 	Bedrock and Java ^
 
-https://minecraftpocket-servers.com/server/102132/
+[Add server Bedrock](minecraft://?addExternalServer=StonksServer|hellohi3654.wither.host:19179)
 
-minecraft://?addExternalServer=Stonks_Server|hellohi3654.wither.host:19179
+[Bedrock Server list](https://minecraftpocket-servers.com/server/102132/)
 
