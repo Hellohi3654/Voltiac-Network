@@ -14,6 +14,8 @@
 
 [![SMP / Survival Map](https://rebootek.fr/img/dynmap.png)](http://map.voltiac.xyz:1234)
 
+[Voltiac Store](http://store.voltiac.xyz/)
+
 [Modified Geyser that we use](https://github.com/Hellohi3654/Geyser/)
 
 [Bedrock Server list](https://minecraftpocket-servers.com/server/104647/)
