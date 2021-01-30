@@ -1,6 +1,7 @@
 ## Voltiac Network
 
 [![Discord](https://cdn.discordapp.com/icons/753431687421231186/3f66bccd788a8c752e76b679714af82d.png)](http://discord.voltiac.xyz/)
+
 [![Discord](https://img.shields.io/discord/613163671870242838.svg?color=%237289da&label=discord)](http://discord.voltiac.xyz/)
 
 	Voltiac Network Info
