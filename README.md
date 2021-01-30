@@ -8,14 +8,12 @@
 	Server address: play.voltiac.xyz:19148
 	Bedrock and Java ^
 
-[![forthebadge made-with-java](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://java.com/)
+[![SMP / Survival Map](https://rebootek.fr/img/dynmap.png)](http://map.voltiac.xyz:1234)
+
+[![Modified Geyser that we use](https://interalliance.org/wp-content/uploads/2020/10/GitHub-Mark.png)](https://github.com/Hellohi3654/Geyser/)
 
 [Bedrock Server list](https://minecraftpocket-servers.com/server/104647/)
 
 [Java Server list](https://minecraft-server-list.com/server/469135/)
 
-[SMP / Survival Map](http://map.voltiac.xyz:1234)
-
-[Discord Invite](http://discord.voltiac.xyz)
-
-[Modified Geyser that we use](https://github.com/Hellohi3654/Geyser/)
+[![forthebadge made-with-java](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://java.com/)
