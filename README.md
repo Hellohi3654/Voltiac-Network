@@ -10,7 +10,8 @@
 	Server address: play.voltiac.xyz:19148
 	Bedrock and Java ^
 	
-	VVV SMP / Survival Map VVV
+	VVV SMP / Survival Map (Click Below)VVV
+
 [![SMP / Survival Map](https://rebootek.fr/img/dynmap.png)](http://map.voltiac.xyz:1234)
 
 [Modified Geyser that we use](https://github.com/Hellohi3654/Geyser/)
