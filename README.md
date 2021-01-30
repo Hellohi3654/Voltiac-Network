@@ -9,9 +9,9 @@
 	Bedrock and Java ^
 	
 	SMP / Survival Map 
-	[![SMP / Survival Map](https://rebootek.fr/img/dynmap.png)](http://map.voltiac.xyz:1234)
+[![SMP / Survival Map](https://rebootek.fr/img/dynmap.png)](http://map.voltiac.xyz:1234)
 
-	[Modified Geyser that we use](https://github.com/Hellohi3654/Geyser/)
+[Modified Geyser that we use](https://github.com/Hellohi3654/Geyser/)
 
 [Bedrock Server list](https://minecraftpocket-servers.com/server/104647/)
 
