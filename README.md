@@ -7,10 +7,11 @@
 	Port: 19148
 	Server address: play.voltiac.xyz:19148
 	Bedrock and Java ^
+	
+	SMP / Survival Map 
+	[![SMP / Survival Map](https://rebootek.fr/img/dynmap.png)](http://map.voltiac.xyz:1234)
 
-[![SMP / Survival Map](https://rebootek.fr/img/dynmap.png)](http://map.voltiac.xyz:1234)
-
-[![Modified Geyser that we use](https://interalliance.org/wp-content/uploads/2020/10/GitHub-Mark.png)](https://github.com/Hellohi3654/Geyser/)
+	[Modified Geyser that we use](https://github.com/Hellohi3654/Geyser/)
 
 [Bedrock Server list](https://minecraftpocket-servers.com/server/104647/)
 
