@@ -1,7 +1,6 @@
-## Hellohi3654
-Hellohi3654's Server Website
+## Voltiac Network
 
-	Voltiac Network
+	Voltiac Network Info
 	IP: play.voltiac.xyz
 	Port: 19148
 	Server address: play.voltiac.xyz:19148
@@ -11,3 +10,8 @@ Hellohi3654's Server Website
 
 [Java Server list](https://minecraft-server-list.com/server/469135/)
 
+[SMP / Survival Map](http://map.voltiac.xyz:1234)
+
+[Discord Invite](http://discord.voltiac.xyz)
+
+[Modified Geyser that we use](https://github.com/Hellohi3654/Geyser/)
