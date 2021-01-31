@@ -5,10 +5,11 @@
 [![Discord](https://img.shields.io/discord/753431687421231186?color=blue&label=DISCORD&style=for-the-badge)](http://discord.voltiac.xyz/)
 
 	Voltiac Network Info
+	Bedrock:
 	IP: play.voltiac.xyz
-	Port: 19148
-	Server address: play.voltiac.xyz:19148
-	Bedrock and Java ^
+	Port: 19132
+	Java:
+	Server address: play.voltiac.xyz
 	
 	VVV SMP / Survival Map (Click Below)VVV
 
