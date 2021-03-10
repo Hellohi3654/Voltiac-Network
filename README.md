@@ -24,3 +24,5 @@
 [Java Server list](https://minecraft-server-list.com/server/469135/)
 
 [![forthebadge made-with-java](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://java.com/)
+
+[![SMP](https://user-images.githubusercontent.com/57390764/110609153-0a939180-81e1-11eb-8364-81ef38f9e9dc.png)](https://voltiac.xyz)
