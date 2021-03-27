@@ -4,6 +4,8 @@
 
 [![Discord](https://img.shields.io/discord/753431687421231186?color=blue&label=DISCORD&style=for-the-badge)](http://discord.voltiac.xyz/)
 
+[![forthebadge made-with-java](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://java.com/)
+
 	Voltiac Network Info
 	Bedrock:
 	IP: play.voltiac.xyz
@@ -24,7 +26,5 @@
 [Bedrock Server list](https://minecraftpocket-servers.com/server/104647/)
 
 [Java Server list](https://minecraft-server-list.com/server/469135/)
-
-[![forthebadge made-with-java](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://java.com/)
 
 [![SMP](https://user-images.githubusercontent.com/57390764/112718189-739b3900-8f45-11eb-8fae-a90ffbb4215a.png)](https://voltiac.xyz)
