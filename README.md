@@ -1,8 +1,10 @@
 ## Voltiac Network
 
-[![Discord](https://cdn.discordapp.com/icons/753431687421231186/3f66bccd788a8c752e76b679714af82d.png)](http://discord.voltiac.xyz/)
+[![Discord](https://user-images.githubusercontent.com/57390764/112718029-88c39800-8f44-11eb-9268-99cab243c90e.png)](http://discord.voltiac.xyz/)
 
 [![Discord](https://img.shields.io/discord/753431687421231186?color=blue&label=DISCORD&style=for-the-badge)](http://discord.voltiac.xyz/)
+
+[![Linktree](https://user-images.githubusercontent.com/57390764/112718062-b6a8dc80-8f44-11eb-8951-037d11d43926.jpg)](linktr.ee/VoltiacNet)
 
 	Voltiac Network Info
 	Bedrock:
