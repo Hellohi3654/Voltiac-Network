@@ -1,6 +1,6 @@
 ## Voltiac Network
 
-[![Discord](https://user-images.githubusercontent.com/57390764/112718029-88c39800-8f44-11eb-9268-99cab243c90e.png)](http://discord.voltiac.xyz/)
+[![Discord](https://user-images.githubusercontent.com/57390764/112718087-d4764180-8f44-11eb-8125-8239aee31ec8.png)](http://discord.voltiac.xyz/)
 
 [![Discord](https://img.shields.io/discord/753431687421231186?color=blue&label=DISCORD&style=for-the-badge)](http://discord.voltiac.xyz/)
 
