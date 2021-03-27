@@ -4,8 +4,6 @@
 
 [![Discord](https://img.shields.io/discord/753431687421231186?color=blue&label=DISCORD&style=for-the-badge)](http://discord.voltiac.xyz/)
 
-[![Linktree](https://user-images.githubusercontent.com/57390764/112718062-b6a8dc80-8f44-11eb-8951-037d11d43926.jpg)](linktr.ee/VoltiacNet)
-
 	Voltiac Network Info
 	Bedrock:
 	IP: play.voltiac.xyz
@@ -17,7 +15,9 @@
 
 [![SMP / Survival Map](https://rebootek.fr/img/dynmap.png)](http://map.voltiac.xyz:1234)
 
-[Voltiac Store](http://store.voltiac.xyz/)
+[![Voltiac Store](https://pbs.twimg.com/profile_images/1286222535886024704/emXjA_ju.jpg)](http://store.voltiac.xyz/)
+
+[![Linktree](https://user-images.githubusercontent.com/57390764/112718062-b6a8dc80-8f44-11eb-8951-037d11d43926.jpg)](linktr.ee/VoltiacNet)
 
 [Modified Geyser that we use](https://github.com/Hellohi3654/Geyser/)
 
